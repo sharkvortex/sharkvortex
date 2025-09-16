@@ -36,12 +36,6 @@ I'm currently a student and started coding in 2023, learning by myself.
 
 ---
 
-### 🌐 Socials
-
-
-
----
-
 ### 🏆 GitHub Stats
 
 <a href="http://www.github.com/sharkvortex">
