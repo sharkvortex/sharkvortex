@@ -6,7 +6,7 @@ I'm currently a student and started coding in 2023, learning by myself.
 
 - 🌍 Based in **Chaiyaphum, Thailand**
 - ✉️ Contact me at [payuttobunma.pt@gmail.com](mailto:payuttobunma.pt@gmail.com)
-- 🧠 Currently learning **Python**
+- 🧠 Currently learning **Full Stack**
 - 🤝 Open to collaborating on **Full Stack Development**
 
 ---
@@ -38,14 +38,7 @@ I'm currently a student and started coding in 2023, learning by myself.
 
 ### 🌐 Socials
 
-<p align="left">
-  <a href="https://discord.com/users/supershark_loso" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" />
-  </a>
-  <a href="https://www.github.com/sharkvortex" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-  </a>
-</p>
+
 
 ---
 
