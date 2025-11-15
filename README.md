@@ -5,7 +5,6 @@
 I'm currently a student and started coding in 2023, learning by myself.
 
 - 🌍 Based in **Chaiyaphum, Thailand**
-- ✉️ Contact me at [payuttobunma.pt@gmail.com](mailto:payuttobunma.pt@gmail.com)
 - 🧠 Currently learning **Full Stack**
 - 🤝 Open to collaborating on **Full Stack Development**
 
