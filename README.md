@@ -1,17 +1,22 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0e7490&height=180&section=header&text=Payut%20Tobunma&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
-
-**Chaiyaphum, Thailand** · Self-taught since 2023
-
-Building end-to-end web applications — from real-time systems to
-payment integrations.
-
-[![Email](https://img.shields.io/badge/Email-payuttobunma.pt%40gmail.com-0891b2?style=flat-square&logo=gmail&logoColor=white)](mailto:payuttobunma.pt@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-sharkvortex-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharkvortex)
-![Profile Views](https://komarev.com/ghpvc/?username=sharkvortex&style=flat-square&color=0891b2&label=Profile+Views)
-
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=6" alt="" />
 </div>
+
+<br>
+
+<h1 align="center">Payut Tobunma</h1>
+<p align="center">Full Stack Developer · Chaiyaphum, Thailand</p>
+
+<p align="center">
+Self-taught since 2023 — building end-to-end web applications,<br>
+from real-time systems to payment integrations.
+</p>
+
+<p align="center">
+<a href="mailto:payuttobunma.pt@gmail.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=flat-square&logo=gmail&logoColor=8b95a1" alt="Email" /></a>
+<a href="https://github.com/sharkvortex"><img src="https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=8b95a1" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=sharkvortex&style=flat-square&color=0d1117&label=Views" alt="Profile Views" />
+</p>
 
 <br>
 
@@ -19,8 +24,8 @@ payment integrations.
 
 I started coding in 2023 and have been learning full-stack development
 through building real projects — from QR-based ordering systems to
-WebSocket chat apps and payment gateway integrations. I'm currently
-focused on strengthening my backend architecture and DevOps skills.
+WebSocket chat apps and payment gateway integrations. Currently
+focused on strengthening backend architecture and DevOps.
 
 Open to collaborating on full-stack projects, freelance work, or just
 talking shop about web development.
@@ -31,58 +36,42 @@ talking shop about web development.
 
 <table>
 <tr>
-<td valign="top" width="18%"><b>Languages</b></td>
-<td valign="top">
+<td width="120"><sub><b>LANGUAGES</b></sub></td>
+<td>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+`JavaScript` `TypeScript` `HTML5` `CSS3` `C++`
 
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Frontend</b></td>
-<td valign="top">
+<td><sub><b>FRONTEND</b></sub></td>
+<td>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+`React` `Next.js` `TailwindCSS` `Vite`
 
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Backend</b></td>
-<td valign="top">
+<td><sub><b>BACKEND</b></sub></td>
+<td>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+`Node.js` `Express` `Fastify`
 
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Databases</b></td>
-<td valign="top">
+<td><sub><b>DATABASES</b></sub></td>
+<td>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+`MySQL` `PostgreSQL` `MongoDB`
 
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Tools & Platforms</b></td>
-<td valign="top">
+<td><sub><b>INFRA</b></sub></td>
+<td>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux VPS](https://img.shields.io/badge/VPS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+`Git` `Docker` `Linux VPS` `Nginx` `VS Code` `Figma`
 
 </td>
 </tr>
@@ -96,51 +85,56 @@ talking shop about web development.
 <tr>
 <td width="50%" valign="top">
 
-### [SCAN_TO_ORDER Web App](https://github.com/sharkvortex/SCAN_TO_ORDER_Web-APP)
+**[SCAN_TO_ORDER Web App](https://github.com/sharkvortex/SCAN_TO_ORDER_Web-APP)**
+<br>
 QR code-based ordering system for restaurants — customers scan, order,
 and pay without a server needing to take the order manually.
-
-`TypeScript`
+<br><br>
+<sub>`TypeScript`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### [GuestChatOnline](https://github.com/sharkvortex/GuestChatOnline-Websocket)
-Real-time chat application built with WebSockets for instant, low-latency
-messaging between guests.
-
-`TypeScript` `WebSocket`
+**[GuestChatOnline](https://github.com/sharkvortex/GuestChatOnline-Websocket)**
+<br>
+Real-time chat application built with WebSockets for instant,
+low-latency messaging between guests.
+<br><br>
+<sub>`TypeScript` `WebSocket`</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [SCB Sandbox API Integration](https://github.com/sharkvortex/Scb_Sendbox_Api-True_Wallet_TopUp)
+**[SCB Sandbox API Integration](https://github.com/sharkvortex/Scb_Sendbox_Api-True_Wallet_TopUp)**
+<br>
 Payment gateway integration with SCB's sandbox API for True Wallet
 top-up transactions.
-
-`JavaScript` `Payment API`
+<br><br>
+<sub>`JavaScript` `Payment API`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### [Schedule Pro](https://github.com/sharkvortex/Schedule_Pro)
-Class schedule organizer that helps students track their timetable and
-manage assignment deadlines in one place.
-
-`TypeScript`
+**[Schedule Pro](https://github.com/sharkvortex/Schedule_Pro)**
+<br>
+Class schedule organizer that helps students track their timetable
+and manage assignment deadlines in one place.
+<br><br>
+<sub>`TypeScript`</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [IoT Fire Alert](https://github.com/sharkvortex/IoT-FireAlert)
-Embedded fire detection system built on IoT hardware, sending real-time
-alerts when smoke or heat thresholds are exceeded.
-
-`C++` `IoT`
+**[IoT Fire Alert](https://github.com/sharkvortex/IoT-FireAlert)**
+<br>
+Embedded fire detection system built on IoT hardware, sending
+real-time alerts when smoke or heat thresholds are exceeded.
+<br><br>
+<sub>`C++` `IoT`</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -159,10 +153,10 @@ alerts when smoke or heat thresholds are exceeded.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sharkvortex&show_icons=true&title_color=0891b2&text_color=e5e5e5&icon_color=0891b2&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharkvortex&layout=compact&langs_count=8&title_color=0891b2&text_color=e5e5e5&icon_color=0891b2&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sharkvortex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharkvortex&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com/?user=sharkvortex&background=0d1117&stroke=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=sharkvortex&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
 </div>
 
@@ -170,15 +164,15 @@ alerts when smoke or heat thresholds are exceeded.
 
 ## Get in Touch
 
-<div align="center">
+<p align="center">
+<a href="mailto:payuttobunma.pt@gmail.com"><img src="https://img.shields.io/badge/-payuttobunma.pt%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=8b95a1" alt="Email" /></a>
+<a href="https://github.com/sharkvortex"><img src="https://img.shields.io/badge/-sharkvortex-0d1117?style=flat-square&logo=github&logoColor=8b95a1" alt="GitHub" /></a>
+</p>
 
-[![Email](https://img.shields.io/badge/-payuttobunma.pt%40gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:payuttobunma.pt@gmail.com)
-[![GitHub](https://img.shields.io/badge/-sharkvortex-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharkvortex)
-
-*Always open to interesting projects and collaboration.*
+<p align="center"><sub>Always open to interesting projects and collaboration.</sub></p>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,100:0891b2&height=100&section=footer" alt="footer" />
-
+<div align="center">
+<img width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=6" alt="" />
 </div>
