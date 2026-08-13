@@ -153,8 +153,8 @@ real-time alerts when smoke or heat thresholds are exceeded.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sharkvortex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharkvortex&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-psi-sooty.vercel.app/api?username=sharkvortex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-psi-sooty.vercel.app/api/top-langs/?username=sharkvortex&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com/?user=sharkvortex&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
