@@ -7,7 +7,7 @@
 Self-taught developer since 2023, building end-to-end web applications —
 from real-time systems to payment integrations.
 
-[![Email](https://img.shields.io/badge/Email-team.rmuproject%40gmail.com-0891b2?style=flat-square&logo=gmail&logoColor=white)](mailto:team.rmuproject@gmail.com)
+[![Email](https://img.shields.io/badge/Email-payuttobunma.pt%40gmail.com-0891b2?style=flat-square&logo=gmail&logoColor=white)](mailto:payuttobunma.pt@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-sharkvortex-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharkvortex)
 
 </div>
@@ -145,7 +145,7 @@ alerts when smoke or heat thresholds are exceeded.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-team.rmuproject%40gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:team.rmuproject@gmail.com)
+[![Email](https://img.shields.io/badge/-payuttobunma.pt%40gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:payuttobunma.pt@gmail.com)
 [![GitHub](https://img.shields.io/badge/-sharkvortex-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharkvortex)
 
 *Always open to interesting projects and collaboration.*
