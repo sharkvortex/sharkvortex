@@ -1,46 +1,153 @@
-# Hi 👋 My name is Payut Tobunma
+<div align="center">
 
-### Full Stack Developer
+# Payut Tobunma
 
-I'm currently a student and started coding in 2023, learning by myself.
+**Full Stack Developer** · Chaiyaphum, Thailand
 
-- 🌍 Based in **Chaiyaphum, Thailand**
-- 🧠 Currently learning **Full Stack**
-- 🤝 Open to collaborating on **Full Stack Development**
+Self-taught developer since 2023, building end-to-end web applications —
+from real-time systems to payment integrations.
 
----
+[![Email](https://img.shields.io/badge/Email-team.rmuproject%40gmail.com-0891b2?style=flat-square&logo=gmail&logoColor=white)](mailto:team.rmuproject@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sharkvortex-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharkvortex)
 
-### 🛠️ Skills
+</div>
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" title="Next.js"/></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite"/></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" title="Node.js"/></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" title="Express"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" title="Photoshop"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a>
-</p>
+<br>
 
----
+## About
 
-### 🏆 GitHub Stats
+I started coding in 2023 and have been learning full-stack development
+through building real projects — from QR-based ordering systems to
+WebSocket chat apps and payment gateway integrations. I'm currently
+focused on strengthening my backend architecture and DevOps skills.
 
-<a href="http://www.github.com/sharkvortex">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharkvortex&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="GitHub Stats" />
-</a>
+Open to collaborating on full-stack projects, freelance work, or just
+talking shop about web development.
 
-<a href="http://www.github.com/sharkvortex">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharkvortex&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
+<br>
+
+## Tech Stack
+
+**Languages & Markup**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+<br>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [SCAN_TO_ORDER Web App](https://github.com/sharkvortex/SCAN_TO_ORDER_Web-APP)
+QR code-based ordering system for restaurants — customers scan, order,
+and pay without a server needing to take the order manually.
+
+`TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+### [GuestChatOnline](https://github.com/sharkvortex/GuestChatOnline-Websocket)
+Real-time chat application built with WebSockets for instant, low-latency
+messaging between guests.
+
+`TypeScript` `WebSocket`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [SCB Sandbox API Integration](https://github.com/sharkvortex/Scb_Sendbox_Api-True_Wallet_TopUp)
+Payment gateway integration with SCB's sandbox API for True Wallet
+top-up transactions.
+
+`JavaScript` `Payment API`
+
+</td>
+<td width="50%" valign="top">
+
+### [Schedule Pro](https://github.com/sharkvortex/Schedule_Pro)
+Class schedule organizer that helps students track their timetable and
+manage assignment deadlines in one place.
+
+`TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [IoT Fire Alert](https://github.com/sharkvortex/IoT-FireAlert)
+Embedded fire detection system built on IoT hardware, sending real-time
+alerts when smoke or heat thresholds are exceeded.
+
+`C++` `IoT`
+
+</td>
+<td width="50%" valign="top">
+
+<br>
+
+[**View all repositories →**](https://github.com/sharkvortex?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sharkvortex&show_icons=true&count_private=true&title_color=0891b2&text_color=e5e5e5&icon_color=0891b2&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharkvortex&layout=compact&langs_count=8&title_color=0891b2&text_color=e5e5e5&icon_color=0891b2&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharkvortex&background=0d1117&stroke=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<br>
+
+## Get in Touch
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-team.rmuproject%40gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:team.rmuproject@gmail.com)
+[![GitHub](https://img.shields.io/badge/-sharkvortex-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharkvortex)
+
+*Always open to interesting projects and collaboration.*
+
+</div>
