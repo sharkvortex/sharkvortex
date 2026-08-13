@@ -1,14 +1,15 @@
 <div align="center">
 
-# Payut Tobunma
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0e7490&height=180&section=header&text=Payut%20Tobunma&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
 
-**Full Stack Developer** · Chaiyaphum, Thailand
+**Chaiyaphum, Thailand** · Self-taught since 2023
 
-Self-taught developer since 2023, building end-to-end web applications —
-from real-time systems to payment integrations.
+Building end-to-end web applications — from real-time systems to
+payment integrations.
 
 [![Email](https://img.shields.io/badge/Email-payuttobunma.pt%40gmail.com-0891b2?style=flat-square&logo=gmail&logoColor=white)](mailto:payuttobunma.pt@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-sharkvortex-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sharkvortex)
+![Profile Views](https://komarev.com/ghpvc/?username=sharkvortex&style=flat-square&color=0891b2&label=Profile+Views)
 
 </div>
 
@@ -28,38 +29,64 @@ talking shop about web development.
 
 ## Tech Stack
 
-**Languages & Markup**
+<table>
+<tr>
+<td valign="top" width="18%"><b>Languages</b></td>
+<td valign="top">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Frontend**
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Frontend</b></td>
+<td valign="top">
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**Backend**
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Backend</b></td>
+<td valign="top">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 
-**Databases**
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Databases</b></td>
+<td valign="top">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Tools & Platforms**
+</td>
+</tr>
+<tr>
+<td valign="top"><b>Tools & Platforms</b></td>
+<td valign="top">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux VPS](https://img.shields.io/badge/VPS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -132,10 +159,10 @@ alerts when smoke or heat thresholds are exceeded.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sharkvortex&show_icons=true&count_private=true&title_color=0891b2&text_color=e5e5e5&icon_color=0891b2&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharkvortex&layout=compact&langs_count=8&title_color=0891b2&text_color=e5e5e5&icon_color=0891b2&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sharkvortex&show_icons=true&title_color=0891b2&text_color=e5e5e5&icon_color=0891b2&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharkvortex&layout=compact&langs_count=8&title_color=0891b2&text_color=e5e5e5&icon_color=0891b2&bg_color=0d1117&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharkvortex&background=0d1117&stroke=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=sharkvortex&background=0d1117&stroke=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -149,5 +176,9 @@ alerts when smoke or heat thresholds are exceeded.
 [![GitHub](https://img.shields.io/badge/-sharkvortex-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharkvortex)
 
 *Always open to interesting projects and collaboration.*
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,100:0891b2&height=100&section=footer" alt="footer" />
 
 </div>
